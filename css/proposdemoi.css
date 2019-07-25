@@ -1,0 +1,89 @@
+/* ARRIERE-PLAN */
+body{
+    background-image: url(http://www.wallfizz.com/espace/univers/3863-voie-lactee-WallFizz.jpg);
+    background-size: cover;
+}
+
+
+/* TITRE DE LA PAGE */
+.text-center{
+    border: 4px blueviolet solid;
+    font-family: 'satisfy',cursive;
+    color: white;
+
+/* MARGE A L'INTERIEUR */
+padding-bottom: 20px;
+padding-top: 20px;
+
+
+/* MARGE A L'EXTERIEUR */
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+
+/* MENU */
+.Menu{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+/* BIOGRAPHIE */
+.col-md-2{
+    margin-left: 70px;
+    margin-right: 40px;
+}
+
+/* ARRONDIR L'IMAGE DU DIAPORAMA */
+.carousel-inner{
+    -moz-border-radius:12px;
+    -webkit-border-radius:12px;
+    border-radius:12px;
+
+}
+
+/* MENU DE DROITE */
+.col-md-3{
+    /* POLICE D'ECRITURE */
+    font-family:'Merriweather', serif;;
+
+    /* COULEUR DE POLICE */
+    color: blue;
+
+    height:200px;
+
+    /* MARGE A L'INTERIEUR */
+    padding-top:20px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+
+    /* MARGE A L'EXTERIEUR */
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+
+/* BOITE A COMPETENCE */ 
+.competence{ 
+    /* MARGE A L'EXTERIEUR */
+    margin-top:40px;
+
+    /* MARGE A L'INTERIEUR */
+    padding-bottom: 3%; 
+    padding: 5%; 
+}
+
+
+
+
+
+/* MES QUALITÉS */
+
+.container{
+    border:4px green;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

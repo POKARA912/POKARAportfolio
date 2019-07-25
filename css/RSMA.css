@@ -1,0 +1,90 @@
+/* ARRIERE-PLAN */
+body{
+   background-image: url(https://i.pinimg.com/736x/87/e2/d0/87e2d0693d69007478eac4922c86b6a8--galaxy-art-the-galaxy.jpg);
+   background-size: cover;
+}
+
+/* TITRE DE LA PAGE */
+.text-center{
+   border: 4px palevioletred solid;
+   font-family: 'satisfy',cursive;
+   color: white;
+
+/* MARGE A L'INTERIEUR */
+padding-bottom: 20px;
+padding-top: 20px;
+
+/* MARGE A L'EXTERIEUR */
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+/* MENU */
+.Menu{
+   margin-top: 40px;
+   margin-bottom: 40px;
+}
+
+/* BIOGRAPHIE */
+.col-md-2{
+   margin-left: 70px;
+   margin-right: 40px;
+}
+
+/* ARRONDIR L'IMAGE DU DIAPORAMA */
+.carousel-inner{
+   -moz-border-radius:12px;
+   -webkit-border-radius:12px;
+   border-radius:12px;
+
+}
+
+/* MENU DE DROITE */
+.col-md-3{
+   /* POLICE D'ECRITURE */
+   font-family:'Merriweather', serif;;
+
+   /* COULEUR DE POLICE */
+   color: blue;
+
+   height:200px;
+
+   /* MARGE A L'INTERIEUR */
+   padding-top:20px;
+   padding-left: 30px;
+   padding-right: 20px;
+   padding-bottom: 20px;
+
+   /* MARGE A L'EXTERIEUR */
+ margin-top: 20px;
+ margin-left: 40px;
+ margin-bottom: 40px;
+}
+
+
+
+
+/* IMAGE DE LA COLONEL */
+.rsma{
+   margin-left: 100px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-right: 40px;
+   border: 3px black;
+
+   /* ARRONDIR LA BORDURE D'IMAGE */
+   -moz-border-radius:12px;
+   -webkit-border-radius:12px;
+   border-radius:12px; 
+}
+
+
+/* IMAGES DE LA CCFPLI,FILIÈRE, SECTION */
+.card-img-top{
+    width: 304px;
+    height: 273px;
+    -moz-border-radius:12px;
+   -webkit-border-radius:12px;
+   border-radius:12px; 
+}
+
